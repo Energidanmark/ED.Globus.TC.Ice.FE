@@ -1,0 +1,6 @@
+﻿Improvements:
+Noted;Objective;ImplementedDate
+10.04.2018;Delete and Run method should be called from Ui;
+10.04.2018;Instead of only checking ContractId & Active - hash the trade and see if it has changed.;
+
+
